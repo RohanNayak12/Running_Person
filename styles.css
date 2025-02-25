@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin: 50px;
+}
+
+img {
+    width: 300px;
+    cursor: pointer;
+    border: 2px solid #000;
+    border-radius: 10px;
+}
+
+#text {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+}
+.hidden {
+    display: none;
+}
